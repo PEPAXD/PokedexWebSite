@@ -1,6 +1,6 @@
 const listaPokemon = document.querySelector("#listaPokemon");
 let URL = "https://pokeapi.co/api/v2/pokemon/";
-let number_Pokémon_display = 1009;
+let number_Pokémon_display = 151;
 let pokemonDataArray = [];
 
 // Almacena Data
